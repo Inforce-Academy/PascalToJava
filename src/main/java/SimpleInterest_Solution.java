@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SimpleInterest {
+public class SimpleInterest_Solution {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
